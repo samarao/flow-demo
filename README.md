@@ -12,6 +12,7 @@ git clone git@github.com:heroku/button-sample.git # or clone your own fork
 cd button-sample
 npm install
 npm start
+>>hello my name is ...
 ```
 
 Your app should now be running on [localhost:5000](http://localhost:5000/).
