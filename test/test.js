@@ -5,7 +5,7 @@ chai.use(chaiHttp);
 
 const server = require('../index');
 
-describe('when the page loads', () => {
+describe('when the page loads but like is it loading', () => {
   it('it should respond with a 200', (done) => {
     chai.request(server)
     .get('/')
